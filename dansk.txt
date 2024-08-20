@@ -151,7 +151,7 @@ E
 Kør
 R
 Scroll Op/Ned
-Genindlæs
+Lad
 Stik ind
 (fuld)
 tom
