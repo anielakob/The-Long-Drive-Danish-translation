@@ -1,0 +1,454 @@
+Dansk
+Fortsæt
+START
+Seed
+Indlæs
+Gem
+Slet
+Indstillinger
+Afslut
+Discord
+Vinter
+Fredeligt
+Automatisk kobling
+Automatisk gearskift
+Kørt distance
+Kopiér
+km
+Side
+Antal
+Tilbage
+3D-skærmbillede
+Navn
+Dato
+Kørt
+Version
+Overskriv gemmefil?
+Indlæs gemmefil?
+Slet gemmefil?
+Indlæs seneste gemmefil?
+Indlæs seneste
+Ja
+Nej
+Tilfældig
+NULSTIL
+Nulstil
+Nulstil alle
+Nulstil filsti
+Spiller
+Brugerdefineret Radio
+Rat
+Lyd
+Grænse for FPS
+Draw Distance (Spejl)
+Draw Distance
+Terrain Tile Size
+Sigtekornsstørrelse
+Look Sensitivity
+Horisontal (X-akse)
+Vertikal (Y-akse)
+Scroll-følsomhed
+Object Move Sensitivity
+Object Rotate Sensitivity
+Synsfelt til fods
+Synsfelt i bil
+Keyboard Look Sensitivity
+Invertér
+Assign
+Aktivér
+Dead-zone
+Sensitivitet
+Maks.
+Vis værdier in-game
+H-Shifter
+Styring
+Gashåndtag
+Bremse
+Kobling
+Håndbremse
+Ændr gearskift her
+Midterværdi
+Affekt på FPS
+V-Sync
+Postprocessering
+Depth of field
+Varmedis
+Reflektioner
+Fjerntliggende terræn
+Tåge
+Skygger
+Spejle
+Græs
+Røg
+Antialiasering
+Anisotropisk filtrering
+Per tekstur
+Gennemtving tænd
+Sepia
+Gråskala
+C64 Farvepalette
+Deaktivér spiller-model
+Aktivér i førsteperson
+Headbob til fods
+Headbob i bil
+Deaktivér Autosave
+Deaktivér i bil
+Fortsæt automatisk
+Hjælp til kontrolindstillinger
+Sigtekorn
+Gammelt sigtekorn
+Gammelt varmedis
+Vis FPS
+Display til dropkamera
+Hår
+Øjenbryn
+Overskæg
+Øjne
+Skjorte
+Bukser
+Sko
+Hud
+Gem/Indlæs
+Hovedmenu
+Cancel
+Venter på svar
+Afslut?
+Kun fra hovedmenu
+Indlæser
+Saml op
+Frigør
+Brug
+Skub
+Skub og styr
+Fastgør
+Montér
+Tænd
+Sluk
+Åbn/Luk
+Vand
+Benzin
+Olie
+Blod
+Diesel
+Alkohol
+Tænd/Sluk
+Åbn
+Luk
+Glat Åbn/Luk
+Afmontér
+Sid
+Tilkobl
+Afkobl
+Drik
+Fyld
+Stå ud/Stå
+Fokusér
+Affyr
+Venstre museknap
+Mus
+F
+E
+Kør
+R
+Scroll Op/Ned
+Genindlæs
+Stik ind
+(fuld)
+tom
+%
+L
+Vend
+Tab
+Ekvipér
+V
+Sov
+Falder i søvn
+Du kan ikke sove endnu
+Knæk løb
+Olietank
+Køler
+Brændstoftank
+Justér
+Tun ind
+Lydstyke +/-
+Stop
+Lys
+Tænding
+Stå
+Højre museknap
+Midterste museknap
+Scroll
+Rotér
+Flyt
+Gencentrering (VR)
+G
+Autosave
+Drikker
+Vask
+Skrub
+Afstøv
+Klem
+Mal
+Krank
+Angrib
+I
+Mellemrum
+Bak
+Ctrl
+Frigear
+N
+Skift gear
+Læn
+Læn op/ned
+Q
+L
+Gear op
+Gear ned
+Accelerér
+↑
+↓
+W
+A
+S
+D
+1-4
+Fremad
+Tilbage
+Venstre
+Højre
+Hop
+Løb
+Duk
+Glat duk
+Inventar
+Bøvs
+Prut
+Pis
+Look
+Zoom
+Skjul HUD
+Småt DropCam
+360° skærmbillede
+360° kamera
+Shift
+B
+P
+Hold Q
+Z
+Y
+Backspace
+F4
+F5
+F6
+F7
+Horn
+Nulstil læn
+Kamera
+Sæt kamera
+Keyboard Look
+H
+C
+Hold C
+X
+Til fods
+I bil
+Lobbyer
+Lobby
+Chat
+[Esc]
+Genindlæs
+Afslut forbindelse
+Deltag
+Kodeord
+Forkert kodeord eller timeout
+OK
+[⏎]: Send
+Lobbynavn
+Lobbytype
+Maks. antal spillere
+Spiller-spawn
+Ved start
+I nærheden af Host
+Opret
+Offentlig
+Kun venner
+Kun ved invitation
+Størrelse
+Notifikation
+Vis automatisk
+Skjul automatisk
+Vis navne
+Stemmeopkald
+Push-to-talk
+Skift
+Fortsat
+Lobby tilsluttet
+Kunne ikke tilslutte lobby
+Lobby oprettet
+Kunne ikke oprette lobby
+Nogen er tilsluttet
+Nogen er frakoblet
+ping
+ms
+Forlod lobby
+Fejl
+Sæt som lobby-administrator
+Spawn
+Skriv besked her
+Nulstil triptæller
+Indstil retning
+Justér tid
+Ørken
+Gnub/Vink
+Alt
+Kan ikke gemme
+under søvn
+imens du sidder
+eller sover
+eller sidder her
+Sov ikke
+Sid ikke
+og sid
+og sov
+Bliv ved!
+Gemt!
+Spol op
+Dræn
+Aflad
+Åbn cylinder
+Tag på
+Caps-lock
+Tag accessories af
+Solbrille-effekter
+Alle biomer
+Biom
+Spis
+Ryg
+Nyn
+Tag en
+Sult og tørst
+Vis altid HP-måler
+Vis altid mad-måler
+Vis altid vand-måler
+Vis altid pis-måler
+Vis altid lort-måler
+Grafik
+Controls
+Diverse
+Hz
+Opløsning
+Skærm
+Ekslusivt fuld skærm
+Fuld skærm i vindue
+Maksimeret vindue
+Vinduetilstand
+x
+Mode
+m
+°
+Aktiveret
+Deaktiveret
+Intet
+LUT
+Lydstyrke
+FM
+AM
+Skift FM/AM
+Følsomhed for tastaturstyring
+Følsomhed for musestyring
+Følsomhed for brems/acceleration med musestyring
+Gå fremad
+Gå tilbage
+Gå til venstre
+Gå til højre
+Kig op
+Kig ned
+Kig til venstre
+Kig til højre
+Affyring, Primær handling
+Sekundær handling
+Rotér
+Løb
+Hop
+Duk
+Brug, Interagér
+Saml op
+Lad
+Montér/Afmontér
+Skub
+Ekviér, Gencentrér
+Læn
+Pis
+Bøvs/Prut
+Mål
+Kortvisning
+Sæt på
+Sov
+Vink/Gnub
+Nyn
+Ryg
+Fjern accessories
+Inventarplads 1
+Inventarplads 2
+Inventarplads 3
+Inventarplads 4
+Scroll op
+Scroll ned
+Skift kamera
+Zoom
+Skjul HUD
+Placér dropkamera
+Tag 3D-skærmbillede
+Tag 360°-skærmbillede
+360°-kamera
+VR-Gencentrering
+Multiplayer-chat
+Stemmeopkald
+Kig rundt med bevægelseskontrol
+Aktivér musestyring
+Speeder
+Bremse
+Styr til venstre
+Styr til højre
+Kobling
+Aktivér håndbremse
+Gear op
+Gear ned
+Bakgear
+Frigear
+1. gear
+2. gear
+3. gear
+4. gear
+5. gear
+6. gear
+Tænding
+Horn
+Lygter
+Nulstil kontrolindstillinger
+Altid manuelt gear
+Spiller-model
+Øjenvipper
+Lås fysik
+Handskerum og kurv
++ Baggagerum og lad
++ Hele interiøret
+Multiplayer
+Skift
+Skygger fra skyer
+Rendering
+Forward
+Deferred
+Stereoskpisk 3D
+Anaglyf
+SBS (L/R)
+SBS (R/L)
+Dybde
+Sky-objekter
+Mindre debris
+Kollision
+Til
+Fra
+Snap-punkt
+Origin-punkt
+Tætteste punkt
