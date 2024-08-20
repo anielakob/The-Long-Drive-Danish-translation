@@ -1,5 +1,5 @@
 # The-Long-Drive-Danish-translation
-A translation of The Long Drive into the Danish language
+A translation of The Long Drive into the Danish language.
 
 ## Installation instructions
 - Open Steam
