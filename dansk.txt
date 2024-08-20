@@ -10,8 +10,8 @@ Afslut
 Discord
 Vinter
 Fredeligt
-Automatisk kobling
-Automatisk gearskift
+Auto-kobling
+Auto-gearskift
 Kørt distance
 Kopiér
 km
