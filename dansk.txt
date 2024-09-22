@@ -42,14 +42,14 @@ Lyd
 Grænse for FPS
 Draw Distance (Spejl)
 Draw Distance
-Terrain Tile Size
-Sigtekornsstørrelse
+Terrain Tile-størrelse
+Sigtekorns-størrelse
 Look Sensitivity
 Horisontal (X-akse)
 Vertikal (Y-akse)
 Scroll-følsomhed
-Object Move Sensitivity
-Object Rotate Sensitivity
+Object Move-følsomhed
+Object Rotate-følsomhed
 Synsfelt til fods
 Synsfelt i bil
 Keyboard Look Sensitivity
@@ -333,7 +333,7 @@ Vis altid vand-måler
 Vis altid pis-måler
 Vis altid lort-måler
 Grafik
-Controls
+Kontrol
 Diverse
 Hz
 Opløsning
@@ -374,9 +374,9 @@ Duk
 Brug, Interagér
 Saml op
 Lad
-Montér/Afmontér
+Monter/Afmonter
 Skub
-Ekviér, Gencentrér
+Ekviper, Gencentrer
 Læn
 Pis
 Bøvs/Prut
