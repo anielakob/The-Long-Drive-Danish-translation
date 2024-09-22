@@ -169,7 +169,7 @@ Olietank
 Køler
 Brændstoftank
 Justér
-Tun ind
+Frekvensindstilling
 Lydstyke +/-
 Stop
 Lys
