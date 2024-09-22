@@ -371,7 +371,7 @@ Rotér
 Løb
 Hop
 Duk
-Brug, Interagér
+Brug, Interager
 Saml op
 Lad
 Monter/Afmonter
