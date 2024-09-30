@@ -83,12 +83,12 @@ Røg
 Antialiasering
 Anisotropisk filtrering
 Per tekstur
-Gennemtving tænd
+Altid på
 Sepia
 Gråskala
 C64 Farvepalette
 Deaktivér spiller-model
-Aktivér i førsteperson
+Deaktivér i førsteperson
 Headbob til fods
 Headbob i bil
 Deaktivér Autosave
@@ -135,7 +135,7 @@ Tænd/Sluk
 Åbn
 Luk
 Glat Åbn/Luk
-Afmontér
+Afmonter
 Sid
 Tilkobl
 Afkobl
